@@ -9,8 +9,6 @@ Tired of using the same old Lorem Ipsum text for your projects? This app allows 
 - Generate custom Lorem Ipsum text paragraphs.
 - Choose the number of paragraphs you need.
 - Easy-to-use interface.
-- Installation
-- Clone the repository to your local machine:
 
 # Usage
 - Enter the number of paragraphs you want to generate in the input field.
